@@ -1,6 +1,6 @@
 Inspiration
 ===========
-These tools were written after I had fell in love with Yahoo!s internal package management tool : YINST.
+These tools were written after I had fallen in love with Yahoo!'s internal package management tool: YINST.
 
 pkg.py
 ======
